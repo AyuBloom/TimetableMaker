@@ -1,0 +1,8 @@
+xcuserdata
+*.pbxuser
+
+.vscode
+
+.DS_Store
+
+dev-tools
