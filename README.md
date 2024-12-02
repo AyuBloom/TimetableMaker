@@ -1,4 +1,5 @@
 # Timetable Maker
+![app icon](TimetableMaker/Assets.xcassets/AppIcon.appiconset/Icon-256.png)
 A simplistic app built entirely with Swift and SwiftUI. 
 
 ## Minimum requirements
