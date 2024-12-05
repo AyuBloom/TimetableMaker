@@ -1,6 +1,9 @@
 # Timetable Maker
-![app icon](TimetableMaker/Assets.xcassets/AppIcon.appiconset/Icon-256.png)
-<br>A simplistic app built entirely with Swift and SwiftUI. 
+<!-- ![app icon](TimetableMaker/Assets.xcassets/AppIcon.appiconset/Icon-256.png) -->
+<p align="center">
+  <img src="TimetableMaker/Assets.xcassets/AppIcon.appiconset/Icon-128.png" />
+  <br>A simplistic app built entirely with Swift and SwiftUI.
+</p>
 
 ## Minimum requirements
 This app supports macOS, iOS and iPadOS.
