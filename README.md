@@ -7,7 +7,7 @@
 
 ## Minimum requirements
 This app supports macOS, iOS and iPadOS.
-- macOS Sonoma and above
+- macOS Sonoma and above $${\color{gray}it's \space terrible, please \space don't \space use \space it \space right \space now}$$
 - iOS 17 / iPadOS 17 and above
 
 ## Build
