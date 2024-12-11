@@ -7,11 +7,12 @@
 
 ## Minimum requirements
 This app supports macOS, iOS and iPadOS.
-- macOS Sonoma and above $${\color{gray}it's \space terrible, please \space don't \space use \space it \space right \space now}$$
+- macOS Sonoma and above $${\color{gray}it's \space less \space terrible \space now, but \space please \space don't \space use \space it}$$
 - iOS 17 / iPadOS 17 and above
 
-## Build
-Since I can't afford buying Apple's 99$ Apple Developer membership, you will have build this project using the included .xcodeproj file. Sorry.
+## Installation
+- Get it from the Releases tab
+- Build it yourself using the included .xcodeproj file
 
 # Donate
 Help a student buy his lunch: https://ko-fi.com/ayubloom
